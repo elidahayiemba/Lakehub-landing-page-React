@@ -1,0 +1,32 @@
+.part{
+    text-align: center;
+    color:rgb(94, 90, 90);
+    font-size: 25px;
+    
+}
+.mypartners{
+    margin: 4rem;
+    margin-bottom: 10px;
+    
+}
+.mypartners .t1 img{
+    margin: 3rem;
+    margin-right: 250px;
+}
+.mypartners .t2 img{
+    margin-right: 200px;
+    margin-bottom: 20px;
+}
+.mypartners .t3 img{
+    margin-right: 250px;
+    margin-bottom: 50px;
+}
+.mypartners .t4 img{
+    margin-right:350px ;
+    margin-bottom: 50px;
+}
+.mypartners .t5 img{
+    margin-right: 200px;
+}
+
+

@@ -1,0 +1,48 @@
+.alert {
+    margin-bottom: 0;
+    text-align: center;
+    color: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;  
+    
+}
+
+.alert-info {
+    
+    background-color: rgb(71, 159, 170);
+    border-color:rgb(71, 159, 170);
+}
+
+.alert-dismissable .close, .alert-dismissible .close {
+    right: 12px;
+    position: relative;
+    top: -2px;
+    right: -21px;
+    color: white;
+}
+button.close {
+    padding: 0;
+    cursor: pointer;
+    background: 0 0;
+    border: 0;
+}
+.close {
+    float: right;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    text-shadow: 0 1px 0 #fff;
+    filter: alpha(opacity=20);
+    opacity: .2;
+    margin-right: 20px;
+}
+.alert p {
+    font-size: 16px;
+    color: white;
+}
+
+.alert a {
+    color: white;
+    font-size: 16px;
+}

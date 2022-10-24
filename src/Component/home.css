@@ -1,0 +1,51 @@
+.logo{
+    margin: 1rem;
+    position: relative;
+}
+.container{
+    margin: 2rem;
+    font-family: sans-serif;
+  
+}
+.main .heading h1{
+    font-size: 55px;
+    color: rgb(6, 57, 84);
+}
+.main .heading h1 span{
+    color:rgb(71, 159, 170) ;
+}
+
+.main .heading p{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+.button .btn1{
+    background-color: rgb(71, 159, 170);
+    border: none;
+    border-radius: 5px;
+    padding: 15px 30px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    
+}
+.button .btn2{
+    background-color: rgb(6, 57, 84)  ;
+    border: none;
+    border-radius: 5px;
+    margin: 2rem;
+    padding: 15px 30px;
+    cursor: pointer;
+    font-size: 16px;
+    
+}
+.button .btn2 a{
+    color: white;
+    text-decoration: none;
+}
+
+.main{
+    display: flex;   
+}

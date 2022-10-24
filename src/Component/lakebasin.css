@@ -1,0 +1,50 @@
+.content2{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    
+}
+.content2 .basin1 img{
+    margin-right: 350px;
+}
+
+.content2 .basin2 h2{
+    color:rgb(94, 90, 90);
+    font-size: 35px;
+}
+.content2 .lake{
+    left: 10rem;
+}
+.content2 .basin3 p{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: rgb(77, 73, 73);
+}
+
+.content2 .basin4{
+    margin-top: 50px;
+}
+.content2 .basin4 button{
+    background-color: rgb(71, 159, 170);
+    border: none;
+    border-radius: 5px;
+    padding: 15px 30px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 20px;
+    
+       
+}
+.content2 .basin4 a{
+    text-decoration: none;
+    font-size: 16px; 
+    color: white;  
+    font-family: sans-serif;
+}
+
+.content2 .basin4 a span{
+    color:rgb(6, 57, 84) ;
+}
+
+
+
